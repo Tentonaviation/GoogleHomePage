@@ -17,4 +17,4 @@ NOKIA 4.2
 
 Clone the repository 
 
- ===============https://github.com/jgamer-playzyt/GoogleHomePage.git ===============
+    ===============https://github.com/jgamer-playzyt/GoogleHomePage.git ===============
